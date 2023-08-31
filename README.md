@@ -32,7 +32,7 @@ Here are some of my favorite projects:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGMach7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AGMach7&theme=flat&column=4)
+![](https://github-profile-trophy.vercel.app/?username=AGMach7&theme=flat&row=1&column=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AGMach7&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
