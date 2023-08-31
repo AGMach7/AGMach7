@@ -40,7 +40,7 @@ Here are some of my favorite projects:
 ## 📫 Contact Me
 
 - LinkedIn: [Agoumi Achraf](https://www.linkedin.com/in/achraf-agoumi/)
-- Email: [achrafagoumi7@gmail.com]
+- Email: achrafagoumi7@gmail.com
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
