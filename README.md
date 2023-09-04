@@ -29,7 +29,7 @@ Here are some of my favorite projects:
 [![](https://github-readme-stats.vercel.app/api?username=AGMach7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AGMach7/github-readme-stats#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api?username=AGMach7&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AGMach7/github-readme-stats#gh-light-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AGMach7&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGMach7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGMach7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AGMach7&theme=flat&row=1&column=4)
