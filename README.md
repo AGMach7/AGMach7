@@ -26,18 +26,29 @@ Here are some of my favorite projects:
 4. [Amazon Reviews Classifier](https://github.com/AGMach7/AmazonReviewsClassifier): A machine learning project for classifying Amazon reviews.
 
 # 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=AGMach7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AGMach7/github-readme-stats#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api?username=AGMach7&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AGMach7/github-readme-stats#gh-light-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AGMach7&theme=dark&hide_border=false)
+<!--[![](https://github-readme-stats.vercel.app/api?username=AGMach7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AGMach7/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=AGMach7&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AGMach7/github-readme-stats#gh-light-mode-only)-->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGMach7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGMach7&theme=date_night)
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AGMach7&type=png)](https://git.io/streak-stats)
+
+  ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGMach7&theme=default)
+
+  ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGMach7&theme=default)
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AGMach7&theme=flat&row=1&column=4)
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=AGMach7&theme=flat&row=1&column=4)
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AGMach7&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
+<div align="center">
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=AGMach7&limit=5&theme=default&combine_all_yearly_contributions=true)
+</div>
 ## 📫 Contact Me
 
 - LinkedIn: [Agoumi Achraf](https://www.linkedin.com/in/achraf-agoumi/)
