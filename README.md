@@ -58,4 +58,4 @@ Here are some of my favorite projects:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-Thanks for visiting my GitHub profile! Feel free to connect with me or explore my projects. 😊
+### Thanks for visiting my GitHub profile! Feel free to connect with me or explore my projects. 😊
