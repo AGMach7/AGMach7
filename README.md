@@ -31,7 +31,7 @@ Here are some of my favorite projects:
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGMach7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AGMach7&type=png)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AGMach7&type=svg)](https://git.io/streak-stats)
 
   ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGMach7&theme=default)
 
