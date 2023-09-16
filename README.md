@@ -49,6 +49,7 @@ Here are some of my favorite projects:
   
   ![](https://github-contributor-stats.vercel.app/api?username=AGMach7&limit=5&theme=default&combine_all_yearly_contributions=true)
 </div>
+
 ## 📫 Contact Me
 
 - LinkedIn: [Agoumi Achraf](https://www.linkedin.com/in/achraf-agoumi/)
