@@ -36,6 +36,7 @@ Here are some of my favorite projects:
   ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGMach7&theme=default)
 
   ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGMach7&theme=default)
+  
 </div>
 
 ## 🏆 GitHub Trophies
