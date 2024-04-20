@@ -1,5 +1,8 @@
 # Hello, I'm Agoumi Achraf 👋
 
+
+<!--[![wakatime](https://wakatime.com/badge/user/018dff41-48a7-4aaf-b1b8-eb6e1b3edd96.svg)](https://wakatime.com/@018dff41-48a7-4aaf-b1b8-eb6e1b3edd96)-->
+
 ---
 
 <p>
