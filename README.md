@@ -4,13 +4,13 @@
 [![wakatime](https://wakatime.com/badge/user/018dff41-48a7-4aaf-b1b8-eb6e1b3edd96.svg)](https://wakatime.com/@018dff41-48a7-4aaf-b1b8-eb6e1b3edd96)
 
 ---
-
+<!--
 <p>
   <samp>
-    I'm Agoumi Achraf, a data engineering student 👩‍💻 at the National School of Applied Sciences Al Hociema in Morocco 🇲🇦.
+    I'm Agoumi Achraf, a data scientist 👩‍💻
   </samp>
 </p>
-
+-->
 ---
 
 # 💻 Tech Stack:
@@ -68,6 +68,6 @@ Here are some of my favorite projects:
 <!--
 ### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
--->
 ---
 ### Thanks for visiting my GitHub profile! Feel free to connect with me or explore my projects. 😊
+-->
